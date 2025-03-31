@@ -10,9 +10,3 @@ int main{
     cout<< "penis length: "<< length <<endl;
     cout<< "your mommas big booty cheeks"<<endl;
 }
-
-hi
-
-fatso
-
-josh is a big poo poo kaa kaa 
