@@ -9,6 +9,4 @@ int main{
     cin>> length;
     cout<< "penis length: "<< length <<endl;
     cout<< "your mommas big booty cheeks"<<endl;
-
-    
 }
