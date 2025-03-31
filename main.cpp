@@ -1,12 +1,17 @@
-
-# include <iostream>
+#include <iostream>
 using namespace std;
 
-int length;
+int main() {
+    int rows = 5;
 
-int main{
-    cout<< "input length"<<endl;
-    cin>> length;
-    cout<< "penis length: "<< length <<endl;
-    cout<< "your mommas big booty cheeks"<<endl;
+    // Loop through rows
+    for(int i = 1; i <= rows; i++) {
+        // Loop through columns
+        for(int j = 1; j <= i; j++) {
+            cout << "*";
+        }
+        cout << endl;
+    }
+
+    return 0;
 }
